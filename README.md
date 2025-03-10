@@ -2,7 +2,7 @@
 I'm a second-year Computer Science major at the University of Virginia, minoring in Data Science. I like building girly things and witnessing their applications in tech and beyond. 
 
 ## 🚀 What I'm Up To
-🤖 currently building dramashelf >_< ...
+🤖 currently building lumealog >_< ...
 
 ## 🌐 Connect with me!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eiman-sherzada/) 
